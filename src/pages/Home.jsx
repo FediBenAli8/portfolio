@@ -257,15 +257,15 @@ function Timeline() {
 const skillGroups = [
   {
     label: "Languages",
-    skills: ["Python", "JavaScript / TypeScript", "Go", "C", "SQL"],
+    skills: ["Python", "JavaScript / TypeScript", "C", "MySQL"],
   },
   {
     label: "Frontend",
-    skills: ["React", "Next.js", "Canvas API", "CSS (no frameworks)", "WebRTC"],
+    skills: ["React", "Angular", "Bootstrap", "Tailwind CSS"],
   },
   {
     label: "Backend",
-    skills: ["Node.js", "FastAPI", "PostgreSQL + pgvector", "Redis", "WebSockets"],
+    skills: ["Node.js", "FastAPI", "PostgreSQL + pgvector", "WebSockets"],
   },
   {
     label: "Tools",
@@ -324,11 +324,11 @@ function Contact() {
               fedibenali8@gmail.com
             </a>
             <div className="contact__links">
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="contact__social-link">
+              <a href="https://github.com/FediBenAli8" target="_blank" rel="noopener noreferrer" className="contact__social-link">
                 GitHub
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" /><polyline points="15 3 21 3 21 9" /><line x1="10" y1="14" x2="21" y2="3" /></svg>
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="contact__social-link">
+              <a href="https://www.linkedin.com/in/fedi-ben-ali-359397235/" target="_blank" rel="noopener noreferrer" className="contact__social-link">
                 LinkedIn
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" /><polyline points="15 3 21 3 21 9" /><line x1="10" y1="14" x2="21" y2="3" /></svg>
               </a>
